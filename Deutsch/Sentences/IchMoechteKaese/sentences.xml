@@ -1,0 +1,208 @@
+<?xml version='1.0' ?>
+<doc>
+    <sentence>
+        <original>
+            <language>de</language>
+            <text>Ich mag keinen Käse.</text>
+            <word>
+                <original>
+                    <text>Ich </text>
+                    <basic_form>ich</basic_form>
+                </original>
+                <translation>
+                    <connection>
+                        <order>1</order>
+                    </connection>
+                    <text>já</text>
+                    <basic_form>já</basic_form>
+                    <pronoun>
+                        <text>
+                            <table class="verb">
+                                <tbody>
+                                    <tr>
+                                        <th colspan="3">ich - já</th>
+                                    </tr>
+                                    <tr>
+                                        <th>pád</th>
+                                        <th>tvar</th>
+                                        <th>překlad</th>
+                                    </tr>
+                                    <tr>
+                                        <td>nominativ</td>
+                                        <td>ich</td>
+                                        <td>já</td>
+                                    </tr>
+                                    <tr>
+                                        <td>akuzativ</td>
+                                        <td>mich</td>
+                                        <td>mě</td>
+                                    </tr>
+                                    <tr>
+                                        <td>dativ</td>
+                                        <td>mir</td>
+                                        <td>mně</td>
+                                    </tr>
+                                    <tr>
+                                        <td>genitiv</td>
+                                        <td>meiner</td>
+                                        <td>můj</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </text>
+                        <basic_form>ich</basic_form>
+                    </pronoun>
+                </translation>
+            </word>
+            <word>
+                <original>
+                    <text>mag </text>
+                    <basic_form>mag</basic_form>
+                </original>
+                <translation>
+                    <text/>
+                    <basic_form/>
+                    <connection>
+                        <order>-1,1</order>
+                    </connection>
+                    <verb>
+                        <text conj="first_person_singular">
+                            <table class="verb">
+                                <tbody>
+                                    <tr>
+                                        <th colspan="2">mögen - mít rád</th>
+                                    </tr>
+                                    <tr>
+                                        <td class="active">ich mag - já mám rád</td>
+                                        <td>wir mögen - my máme rádi</td>
+                                    </tr>
+                                    <tr>
+                                        <td>du magst - ty máš rád</td>
+                                        <td>ihr mögt - vy máte rádí</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="noBottomBorder">er mag - on má rád</td>
+                                        <td rowspan="3">sie mögen - oni mají rádi</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="noBottomBorder noTopBorder">sie mag - ona má
+                                            ráda</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="noTopBorder">es mag - to má rádo</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </text>
+                        <basic_form conj="first_person_singular">moegen</basic_form>
+                    </verb>
+                </translation>
+            </word>
+            <word>
+                <original>
+                    <text>keinen </text>
+                    <basic_form>keinen</basic_form>
+                </original>
+                <translation>
+                    <text>žádný</text>
+                    <basic_form>žádný</basic_form>
+                    <connection>
+                        <order>1</order>
+                    </connection>
+                    <pronoun>
+                        <text>keine</text>
+                        <basic_form>keine</basic_form>
+                    </pronoun>
+                </translation>
+            </word>
+            <word>
+                <original>
+                    <text>Käse.</text>
+                    <basic_form>Käse</basic_form>
+                </original>
+                <translation>
+                    <text/>
+                    <basic_form/>
+                    <grammar>
+                        <text>sýr</text>
+                        <basic_form>sýr</basic_form>
+                    </grammar>
+                    <connection>
+                        <order>-1</order>
+                    </connection>
+                    <noun>
+                        <text decl="accusativ_singular_definite">
+                            <table class="verb">
+                                <tbody>
+                                    <tr>
+                                        <th colspan="3">Käse - sýr (mužský rod)</th>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="3">Jednotné číslo</th>
+                                    </tr>
+                                    <tr>
+                                        <th>pád</th>
+                                        <th>neurčitý člen</th>
+                                        <th>určitý člen</th>
+                                    </tr>
+                                    <tr>
+                                        <td>nominativ</td>
+                                        <td>ein Käse</td>
+                                        <td>der Käse</td>
+                                    </tr>
+                                    <tr>
+                                        <td>akuzativ</td>
+                                        <td>einen Käse</td>
+                                        <td class="active">den Käse</td>
+                                    </tr>
+                                    <tr>
+                                        <td>dativ</td>
+                                        <td>einem Käse</td>
+                                        <td>dem Käse</td>
+                                    </tr>
+                                    <tr>
+                                        <td>genitiv</td>
+                                        <td>eines Käses</td>
+                                        <td>des Käses</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="3">Množné číslo</th>
+                                    </tr>
+                                    <tr>
+                                        <td>nominativ</td>
+                                        <td/>
+                                        <td>die Käse</td>
+                                    </tr>
+                                    <tr>
+                                        <td>accusativ</td>
+                                        <td/>
+                                        <td>die Käse</td>
+                                    </tr>
+                                    <tr>
+                                        <td>dativ</td>
+                                        <td/>
+                                        <td>den Käsen</td>
+                                    </tr>
+                                    <tr>
+                                        <td>genitiv</td>
+                                        <td/>
+                                        <td>der Käse</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </text>
+                        <basic_form decl="accusativ_singular_definite">Kaese</basic_form>
+                    </noun>
+                    <phrase highlight="">
+                        <text>keine Käse - žádný sýr</text>
+                        <basic_form>keine Käse - žádný sýr</basic_form>
+                    </phrase>
+                </translation>
+            </word>
+        </original>
+        <translation>
+            <language>cs</language>
+            <text>Nemám rád sýr.</text>
+        </translation>
+    </sentence>
+</doc>

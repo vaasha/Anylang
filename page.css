@@ -1,0 +1,44 @@
+body,
+html {
+margin:5px 0 0 0;
+padding:0;
+color:#000;
+}
+
+
+#wrap {
+width:800px;
+margin:0 auto;
+}
+
+#text_win {
+
+float:left;
+width:45%;
+min-height: 100px;
+margin-left: 3px;
+border: 1px solid black;
+line-height: 1.5em;
+padding: 5px;
+}
+
+#translation_win {
+float:right;
+width:40%;
+border: 1px solid black; 
+min-height: 100px;
+padding: 5px;
+
+}
+#footer {
+background:#cc9;
+}
+
+word {
+/*display: inline-block;*/
+}
+
+.connection {
+ color: #66C;
+ text-decoration: underline;
+}

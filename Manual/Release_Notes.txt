@@ -1,0 +1,40 @@
+for future
+finalize manual for supporting .js files
+change decl and conj to highlight and update substituteAllTypes
+
+1.34
+fized highlight attribute in substituteAllTypes, because it's taken from basic form children 
+
+1.33
+generalize the noun, adj., adverb section into one function as substituteAllTypes in substitute_functions.js
+
+1.32
+Create and Update sentences consolidated into single file sentence_update.html with sentence_update.js
+1.31
+refactor substitute_functions.js moving building of html structure to noun, verb etc functions
+Adding some words into Indonesian
+1.29
+Tool for upload updated to take values from basic_form
+creation of basic_form for adjective during creation or update
+add language to pronouns
+adjective section
+hide all words button  
+1.28
+updated xml creation to have source (which file to use for automatic translation, nouns etc - basic_form) and text (display text)
+1.26
+can create xml already with details
+1.25
+added translation from xml
+1.24
+added pronous and adjectives
+1.22
+common fuctions moved to form_func.js
+when we update, we create sentences into div sentenceSet, while normaly this doesn't exist
+no button actually works
+1.21
+sentence_update.js to get the xml from by ajax from the server
+1.20
+Fix - download button
+Update - Create_xml function in create_sentences.js
+1.19
+Fix - multiple sentences each have its <sentence></sentence>

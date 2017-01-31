@@ -1,0 +1,18 @@
+create_sentence.html ... to create new sentences
+sentence_update.html ... fill in the form based on xml (currently the xml is hardcoded)
+
+both reference to same functions in:
+form_func.js  
+sentence_update.js
+substitute_functions.js ... used for automatic substitution of the text value in text & basic_form pair from particular folders grammar, noun, pronoun etc.
+
+What it can handle:
+ * Nouns
+ * Adjectives
+ * Pronouns
+ * Verbs
+ * Phrases
+ * Relations
+ ** Relations are used to explain the meaning of connected words (see Connections)
+ * Connections
+ ** Connection means that one word is linked to another and connections are highlighted when you mouse over

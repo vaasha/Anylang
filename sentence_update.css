@@ -1,0 +1,37 @@
+body,
+html {
+margin:5px 0 0 0;
+padding:0;
+color:#000;
+}
+
+
+#wrap {
+width:1500px;
+margin:0 auto;
+}
+}
+#create {
+
+float:left;
+width:40%;
+min-height: 100px;
+margin-left: 3%px;
+border: 1px solid black;
+line-height: 1.5em;
+padding: 5px;
+}
+
+}
+#footer {
+background:#cc9;
+}
+
+word {
+display: inline-block;
+}
+
+.test {
+ background-color: blue;
+ border: 5px solid red;
+}

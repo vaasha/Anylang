@@ -1,0 +1,6 @@
+table {border-collapse: collapse;}
+td {border: 1px solid black; padding: 3px;}
+th {border: 1px solid black; padding: 3px; background: #eee;}
+.noBottomBorder {border-bottom: 0px;}
+.noTopBorder {border-top: 0px;}
+.active{ background: #cff;}
