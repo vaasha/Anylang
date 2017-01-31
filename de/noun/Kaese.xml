@@ -1,0 +1,54 @@
+<?xml version='1.0' ?>
+<noun>
+<original>Käse</original>
+<translate>sýr</translate>
+<gender>masculine</gender>
+<nominativ_singular_indefinite>
+<original>ein Käse</original>
+<translate>sýr</translate>
+</nominativ_singular_indefinite>
+<accusativ_singular_indefinite>
+<original>einen Käse</original>
+<translate>sýr</translate>
+</accusativ_singular_indefinite>
+<dativ_singular_indefinite>
+<original>einem Käse</original>
+<translate>sýr</translate>
+</dativ_singular_indefinite>
+<genitiv_singular_indefinite>
+<original>eines Käses</original>
+<translate>sýr</translate>
+</genitiv_singular_indefinite>
+<nominativ_singular_definite>
+<original>der Käse</original>
+<translate>ten sýr</translate>
+</nominativ_singular_definite>
+<accusativ_singular_definite>
+<original>den Käse</original>
+<translate>sýr</translate>
+</accusativ_singular_definite>
+<dativ_singular_definite>
+<original>dem Käse</original>
+<translate>sýr</translate>
+</dativ_singular_definite>
+<genitiv_singular_definite>
+<original>des Käses</original>
+<translate>sýr</translate>
+</genitiv_singular_definite>
+<nominativ_plural_definite>
+<original>die Käse</original>
+<translate>sýry</translate>
+</nominativ_plural_definite>
+<accusativ_plural_definite>
+<original>die Käse</original>
+<translate>sýry</translate>
+</accusativ_plural_definite>
+<dativ_plural_definite>
+<original>den Käsen</original>
+<translate>sýry</translate>
+</dativ_plural_definite>
+<genitiv_plural_definite>
+<original>der Käse</original>
+<translate>sýry</translate>
+</genitiv_plural_definite>
+</noun>

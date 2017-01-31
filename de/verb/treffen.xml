@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<verb>
+<original>treffen</original>
+<translate>setkat se, potkat, narazit na</translate>
+<first_person_singular>
+<original>ich treffe</original>
+<translate>já potkávám</translate>
+</first_person_singular>
+<first_person_plural>
+<original>wir treffen</original>
+<translate>my potkáváme</translate>
+</first_person_plural>
+<second_person_singular>
+<original>du triffst</original>
+<translate>ty potkáváš</translate>
+</second_person_singular>
+<second_person_plural>
+<original>ihr trefft</original>
+<translate>vy potáváte</translate>
+</second_person_plural>
+<third_person_singular_he>
+<original>er trifft</original>
+<translate>on potkává</translate>
+</third_person_singular_he>
+<third_person_singular_she>
+<original>sie trifft</original>
+<translate>ona potkává</translate>
+</third_person_singular_she>
+<third_person_singular_it>
+<original>es trifft</original>
+<translate>to potkává</translate>
+</third_person_singular_it>
+<third_person_plural_they>
+<original>sie treffen</original>
+<translate>oni potkávají</translate>
+</third_person_plural_they>
+</verb>

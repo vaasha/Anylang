@@ -1,0 +1,21 @@
+<?xml version='1.0' ?>
+<pronoun>
+<original>ich</original>
+<translate>já</translate>
+<nominativ_singular>
+<original>ich</original>
+<translate>já</translate>
+</nominativ_singular>
+<accusativ_singular>
+<original>mich</original>
+<translate>mě</translate>
+</accusativ_singular>
+<dativ_singular>
+<original>mir</original>
+<translate>mně</translate>
+</dativ_singular>
+<genitiv_singular>
+<original>meiner</original>
+<translate>můj</translate>
+</genitiv_singular>
+</pronoun>

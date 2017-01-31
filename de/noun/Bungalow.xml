@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<noun>
+<original>Bungalow</original>
+<translate>bungalov</translate>
+<gender>masculine</gender>
+<nominativ_singular_indefinite>
+<original>ein Bungalow</original>
+<translate>bungalov</translate>
+</nominativ_singular_indefinite>
+<accusativ_singular_indefinite>
+<original>einen Bungalow</original>
+<translate>bungalov</translate>
+</accusativ_singular_indefinite>
+<dativ_singular_indefinite>
+<original>einem Bungalow</original>
+<translate>bungalov</translate>
+</dativ_singular_indefinite>
+<genitiv_singular_indefinite>
+<original>eines Bungalows</original>
+<translate>bungalov</translate>
+</genitiv_singular_indefinite>
+<nominativ_singular_definite>
+<original>der Bungalow</original>
+<translate>ten bungalov</translate>
+</nominativ_singular_definite>
+<accusativ_singular_definite>
+<original>den Bungalow</original>
+<translate>bungalov</translate>
+</accusativ_singular_definite>
+<dativ_singular_definite>
+<original>dem Bungalow</original>
+<translate>bungalov</translate>
+</dativ_singular_definite>
+<genitiv_singular_definite>
+<original>des Bungalows</original>
+<translate>bungalov</translate>
+</genitiv_singular_definite>
+</noun>

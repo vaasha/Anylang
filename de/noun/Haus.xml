@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<noun>
+<original>Haus</original>
+<translate>dům</translate>
+<gender>neutral</gender>
+<nominativ_singular_indefinite>
+<original>ein Haus</original>
+<translate>dům</translate>
+</nominativ_singular_indefinite>
+<accusativ_singular_indefinite>
+<original>ein Haus</original>
+<translate>dům</translate>
+</accusativ_singular_indefinite>
+<dativ_singular_indefinite>
+<original>einem Haus</original>
+<translate>dům</translate>
+</dativ_singular_indefinite>
+<genitiv_singular_indefinite>
+<original>eines Haus</original>
+<translate>dům</translate>
+</genitiv_singular_indefinite>
+<nominativ_singular_definite>
+<original>das Haus</original>
+<translate>ten dům</translate>
+</nominativ_singular_definite>
+<accusativ_singular_definite>
+<original>das Haus</original>
+<translate>dům</translate>
+</accusativ_singular_definite>
+<dativ_singular_definite>
+<original>dem Haus</original>
+<translate>dům</translate>
+</dativ_singular_definite>
+<genitiv_singular_definite>
+<original>des Haus</original>
+<translate>dům</translate>
+</genitiv_singular_definite>
+</noun>

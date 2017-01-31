@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<noun>
+<original>Wohnung</original>
+<translate>byt</translate>
+<gender>feminine</gender>
+<nominativ_singular_indefinite>
+<original>ein Wohnung</original>
+<translate>dům</translate>
+</nominativ_singular_indefinite>
+<accusativ_singular_indefinite>
+<original>ein Wohnung</original>
+<translate>dům</translate>
+</accusativ_singular_indefinite>
+<dativ_singular_indefinite>
+<original>einer Wohnung</original>
+<translate>dům</translate>
+</dativ_singular_indefinite>
+<genitiv_singular_indefinite>
+<original>einer Wohnung</original>
+<translate>dům</translate>
+</genitiv_singular_indefinite>
+<nominativ_singular_definite>
+<original>die Wohnung</original>
+<translate>ten dům</translate>
+</nominativ_singular_definite>
+<accusativ_singular_definite>
+<original>die Wohnung</original>
+<translate>dům</translate>
+</accusativ_singular_definite>
+<dativ_singular_definite>
+<original>der Wohnung</original>
+<translate>dům</translate>
+</dativ_singular_definite>
+<genitiv_singular_definite>
+<original>der Wohnung</original>
+<translate>byt</translate>
+</genitiv_singular_definite>
+</noun>

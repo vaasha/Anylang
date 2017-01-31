@@ -1,0 +1,54 @@
+<?xml version='1.0' ?>
+<noun>
+<original>Freund</original>
+<translate>pøítel</translate>
+<gender>masculine</gender>
+<nominativ_singular_indefinite>
+<original>ein Freund</original>
+<translate>pøítel</translate>
+</nominativ_singular_indefinite>
+<accusativ_singular_indefinite>
+<original>einen Freund</original>
+<translate>pøítel</translate>
+</accusativ_singular_indefinite>
+<dativ_singular_indefinite>
+<original>einem Freund/Freunde</original>
+<translate>pøítel</translate>
+</dativ_singular_indefinite>
+<genitiv_singular_indefinite>
+<original>eines Freunds/Freundes</original>
+<translate>pøítel</translate>
+</genitiv_singular_indefinite>
+<nominativ_singular_definite>
+<original>der Freund</original>
+<translate>ten pøítel</translate>
+</nominativ_singular_definite>
+<accusativ_singular_definite>
+<original>den Freund</original>
+<translate>pøítel</translate>
+</accusativ_singular_definite>
+<dativ_singular_definite>
+<original>dem Freund/Freunde</original>
+<translate>pøítel</translate>
+</dativ_singular_definite>
+<genitiv_singular_definite>
+<original>des Freunds/Freundes</original>
+<translate>pøítel</translate>
+</genitiv_singular_definite>
+<nominativ_plural_definite>
+<original>die Freunde</original>
+<translate>pøátelé</translate>
+</nominativ_plural_definite>
+<accusativ_plural_definite>
+<original>die Freunde</original>
+<translate>pøátelé</translate>
+</accusativ_singular_definite>
+<dativ_plural_definite>
+<original>den Freunden</original>
+<translate>pøátelé</translate>
+</dativ_plural_definite>
+<genitiv_plural_definite>
+<original>der Freunde</original>
+<translate>pøátelé</translate>
+</genitiv_plural_definite>
+</noun>

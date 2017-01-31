@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<verb>
+<original>treffen sich</original>
+<translate>potkávat se</translate>
+<first_person_singular>
+<original>ich treffe mich mit</original>
+<translate>já se potkávám s</translate>
+</first_person_singular>
+<first_person_plural>
+<original>wir treffen uns mit</original>
+<translate>my se potkáváme se s</translate>
+</first_person_plural>
+<second_person_singular>
+<original>du triffst dich mit</original>
+<translate>ty se potkáváš s</translate>
+</second_person_singular>
+<second_person_plural>
+<original>ihr trefft euch mit</original>
+<translate>vy se potáváte s</translate>
+</second_person_plural>
+<third_person_singular_he>
+<original>er trifft sich mit</original>
+<translate>on se potkává s</translate>
+</third_person_singular_he>
+<third_person_singular_she>
+<original>sie trifft sich mit</original>
+<translate>ona se potkává s</translate>
+</third_person_singular_she>
+<third_person_singular_it>
+<original>es trifft sich mit</original>
+<translate>to se potkává s</translate>
+</third_person_singular_it>
+<third_person_plural_they>
+<original>sie treffen sich mit</original>
+<translate>oni se potkávají s</translate>
+</third_person_plural_they>
+</verb>

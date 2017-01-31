@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<verb>
+<original>mögen</original>
+<translate>mít rád</translate>
+<first_person_singular>
+<original>ich mag</original>
+<translate>já mám rád</translate>
+</first_person_singular>
+<first_person_plural>
+<original>wir mögen</original>
+<translate>my máme rádi</translate>
+</first_person_plural>
+<second_person_singular>
+<original>du magst</original>
+<translate>ty máš rád</translate>
+</second_person_singular>
+<second_person_plural>
+<original>ihr mögt</original>
+<translate>vy máte rádí</translate>
+</second_person_plural>
+<third_person_singular_he>
+<original>er mag</original>
+<translate>on má rád</translate>
+</third_person_singular_he>
+<third_person_singular_she>
+<original>sie mag</original>
+<translate>ona má ráda</translate>
+</third_person_singular_she>
+<third_person_singular_it>
+<original>es mag</original>
+<translate>to má rádo</translate>
+</third_person_singular_it>
+<third_person_plural_they>
+<original>sie mögen</original>
+<translate>oni mají rádi</translate>
+</third_person_plural_they>
+</verb>

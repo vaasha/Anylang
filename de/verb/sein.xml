@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<verb>
+<original>sein</original>
+<translate>být</translate>
+<first_person_singular>
+<original>ich bin</original>
+<translate>já jsem</translate>
+</first_person_singular>
+<first_person_plural>
+<original>wir sind</original>
+<translate>my jsme</translate>
+</first_person_plural>
+<second_person_singular>
+<original>du bist</original>
+<translate>ty jsi</translate>
+</second_person_singular>
+<second_person_plural>
+<original>ihr seid</original>
+<translate>vy jste</translate>
+</second_person_plural>
+<third_person_singular_he>
+<original>er ist</original>
+<translate>on je</translate>
+</third_person_singular_he>
+<third_person_singular_she>
+<original>sie ist</original>
+<translate>ona je</translate>
+</third_person_singular_she>
+<third_person_singular_it>
+<original>es ist</original>
+<translate>to je</translate>
+</third_person_singular_it>
+<third_person_plural_they>
+<original>sie sind</original>
+<translate>oni jsou</translate>
+</third_person_plural_they>
+</verb>
